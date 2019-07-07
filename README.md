@@ -6,6 +6,10 @@ It uses node.js and react
 
 ## technologies used
 
-Brew
+pipw
 Git and github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
