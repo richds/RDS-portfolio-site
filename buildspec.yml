@@ -6,10 +6,13 @@ phases:
       nodejs: 10
   build:
     commands:
-      - node --version
+      - npm install
+      - npm run webpack
+
 artifacts:
   files:
     - index.html
     - favicon.ico
     - styles/main.css
     - images/*
+    - dist/bundle.js
