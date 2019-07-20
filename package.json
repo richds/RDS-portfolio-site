@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richds/acg-portfolio.git"
+    "url": "git+https://github.com/richds/RDS-portfolio-site.git"
   },
   "author": "Richard Sirokman <richds@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richds/acg-portfolio/issues"
+    "url": "https://github.com/richds/RDS-portfolio-site/issues"
   },
-  "homepage": "https://github.com/richds/acg-portfolio#readme",
+  "homepage": "https://github.com/richds/RDS-portfolio-site#readme",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0"

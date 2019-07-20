@@ -24,6 +24,10 @@
   background-color: rgb(52, 152, 219);
 }
 
+.background--purple {
+  background-color: rgb(110, 43, 233)
+}
+
 .color--skyBlue {
   color: rgb(52, 152, 219);
 }
