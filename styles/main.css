@@ -25,11 +25,15 @@
 }
 
 .background--purple {
-  background-color: rgb(110, 43, 233)
+  background-color: rgb(63, 17, 148)
 }
 
 .color--skyBlue {
   color: rgb(52, 152, 219);
+}
+
+.color--purple {
+  color: rgb(63, 17, 148);
 }
 
 .color--cloud {
@@ -59,7 +63,7 @@ html {
 }
 
 body {
-  font-family: 'Cardo', serif;
+  font-family: 'Sarabun', sans-serif;
   margin: 0;
 }
 
