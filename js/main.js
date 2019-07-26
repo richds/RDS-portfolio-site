@@ -9,7 +9,7 @@ const myWork = [
         'desc': "PDF slideshow for CI/CD",
         'body': "",
         'image': {
-            'desc': "example screenshot of a project involving code",
+            'desc': "Southern Utah Canyons",
             'src': "images/example1.png",
             'comment': ""
         }
@@ -25,25 +25,21 @@ const myWork = [
         This page is served by Cloudfront from an S3 bucket.\
         Click the link to see the Git Repo",
         'image': {
-            'desc': "example screenshot of a project involving chemistry",
+            'desc': "a bear grazing",
             'src': "images/example2.png",
-            'comment': `“Chemistry” by Surian Soosay is licensed under CC BY 2.0
-            https://www.flickr.com/photos/ssoosay/4097410999 `
         }
     },
     {
         'title': "Services Provided",
-        'href': "https://desertwave.cloud",
-        'desc': "Link to Consulting Website",
+        'href': "content/Resume.html",
+        'desc': "Link to Resume",
         'body': "I provide help to growing companies who need to improve their \
         software engineering practices. If your company has created an application that runs\
         on AWS, or you are thinking of transitioning to the cloud, I can help.\
         Please click the link above to read more from my consulting site and blog.",
         'image': {
-            'desc': "example screenshot of a project involving cats",
+            'desc': "Thermopolis hot spring",
             'src': "images/example3.png",
-            'comment': `“Bengal cat” by roberto shabs is licensed under CC BY 2.0
-            https://www.flickr.com/photos/37287295@N00/2540855181`
         }
     }
 ]
