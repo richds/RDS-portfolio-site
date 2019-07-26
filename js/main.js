@@ -31,12 +31,12 @@ const myWork = [
     },
     {
         'title': "Services Provided",
-        'href': "content/Resume.html",
+        'href': "content/Resume.pdf",
         'desc': "Link to Resume",
         'body': "I provide help to growing companies who need to improve their \
         software engineering practices. If your company has created an application that runs\
         on AWS, or you are thinking of transitioning to the cloud, I can help.\
-        Please click the link above to read more from my consulting site and blog.",
+        Please click the link above for a link to my PDF resume.",
         'image': {
             'desc': "Thermopolis hot spring",
             'src': "images/example3.png",
