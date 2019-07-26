@@ -31,7 +31,7 @@ const myWork = [
     },
     {
         'title': "Services Provided",
-        'href': "content/Resume.pdf",
+        'href': "content/RichardSirokmanDevOpsResume2019.pdf",
         'desc': "Link to Resume",
         'body': "I provide help to growing companies who need to improve their \
         software engineering practices. If your company has created an application that runs\
