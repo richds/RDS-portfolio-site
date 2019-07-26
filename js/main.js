@@ -10,7 +10,7 @@ const myWork = [
         'body': "",
         'image': {
             'desc': "Southern Utah Canyons",
-            'src': "images/example1.png",
+            'src': "images/whitecanyon.png",
             'comment': ""
         }
     },
@@ -25,8 +25,8 @@ const myWork = [
         This page is served by Cloudfront from an S3 bucket.\
         Click the link to see the Git Repo",
         'image': {
-            'desc': "a bear grazing",
-            'src': "images/example2.png",
+            'desc': "balls art project",
+            'src': "images/balls.png",
         }
     },
     {
