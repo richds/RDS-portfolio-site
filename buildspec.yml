@@ -21,3 +21,4 @@ artifacts:
     - images/*
     - dist/bundle.js
     - content/*
+    - content/images/*
