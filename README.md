@@ -6,7 +6,7 @@ It uses node.js and react
 
 ## technologies used
 
-pipw
+pip
 Git and github
 SSH
 HTML

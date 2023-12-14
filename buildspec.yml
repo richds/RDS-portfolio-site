@@ -20,7 +20,7 @@ artifacts:
     - styles/main.css
     - images/*
     - dist/bundle.js
-    - content/RichardSirokmanSQAResume2023.html
+    - content/RichardSirokmanSQAResume2023.pdf
     - content/RichardSirokmanDevOpsResume2019.html
     - content/RichardSirokmanDevOpsResume2019.pdf
     - content/images/image1.jpg
