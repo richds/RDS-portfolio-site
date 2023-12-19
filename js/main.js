@@ -4,6 +4,19 @@ import ExampleWork from './example-work';
 
 const myWork = [
     {
+        'title': "Services Provided",
+        'href': "content/RichardSirokmanSQAResume2023.pdf",
+        'desc': "Link to Resume",
+        'body': "I provide help to growing companies who need to improve their \
+        software engineering practices. If your company has created an application that runs\
+        on AWS, or you are thinking of transitioning to the cloud, I can help.\
+        Please click the link above for a link to my PDF resume.",
+        'image': {
+            'desc': "Thermopolis hot spring",
+            'src': "images/example3.png",
+        }
+    },
+    {
         'title': "AWS CI/CD in 5 Minutes",
         'href': "https://s3.amazonaws.com/portfolio.richardsirokman.info/content/CI_CD+on+AWS+in+5+minutes.pdf",
         'desc': "PDF slideshow for CI/CD",
@@ -27,19 +40,6 @@ const myWork = [
         'image': {
             'desc': "balls art project",
             'src': "images/balls.png",
-        }
-    },
-    {
-        'title': "Services Provided",
-        'href': "content/RichardSirokmanDevOpsResume2019.pdf",
-        'desc': "Link to Resume",
-        'body': "I provide help to growing companies who need to improve their \
-        software engineering practices. If your company has created an application that runs\
-        on AWS, or you are thinking of transitioning to the cloud, I can help.\
-        Please click the link above for a link to my PDF resume.",
-        'image': {
-            'desc': "Thermopolis hot spring",
-            'src': "images/example3.png",
         }
     }
 ]
