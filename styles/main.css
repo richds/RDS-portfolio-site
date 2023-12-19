@@ -21,7 +21,7 @@
 */
 
 .background--skyBlue {
-  background-color: rgb(52, 201, 235)
+  background-color: rgb(67, 226, 247)
 }
 
 .background--purple {
@@ -29,7 +29,7 @@
 }
 
 .color--skyBlue {
-  color: rgb(52, 201, 235);
+  color: rgb(67, 226, 247);
 }
 
 .color--purple {
@@ -41,7 +41,7 @@
 }
 
 .color--gray {
-  color: rgb(191, 191, 191);
+  color: rgb(180, 180, 180);
 }
 
 .color--darkgray {
@@ -72,6 +72,12 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .1rem;
 }
 
+ul {
+  list-style-type: none;
+  line-height: 2; 
+  color: rgb(63, 17, 148);
+}
+
 /*
   Helpers
 */
@@ -91,7 +97,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .section {
   font-size: 4.2rem;
-  max-height: 60vh;
+  min-height: 25vh;
+  position: relative;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.section--myname {
+  font-size: 4.2rem;
+  height: 10vh;
   position: relative;
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -123,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 .section__exampleWrapper,
 .section__example {
   display: inline-block;
-  height: 55rem;
+  height: 35rem;
   width: 35rem;
 }
 
