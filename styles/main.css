@@ -21,19 +21,43 @@
 */
 
 .background--skyBlue {
-  background-color: rgb(67, 226, 247)
+  background-color: #39D3FA
 }
 
 .background--purple {
-  background-color: rgb(63, 17, 148)
+  background-color: rgb(90, 33, 195)
+}
+
+.background--miamiGreen {
+  color: #39FAB6
+}
+
+.color--miamiGreen {
+  color: #39FAB6
 }
 
 .color--skyBlue {
-  color: rgb(67, 226, 247);
+  color: #39D3FA
 }
 
 .color--purple {
-  color: rgb(63, 17, 148);
+  color: rgb(90, 33, 195)
+}
+
+.color--goldenrod {
+  color: #FAC339
+}
+
+.color--apricot {
+  color: #FA9639
+}
+
+.background--goldenrod {
+  color: #FAC339
+}
+
+.background--apricot {
+  color: #FA9639
 }
 
 .color--cloud {
@@ -45,8 +69,20 @@
 }
 
 .color--darkgray {
-  color: rgb(44, 62, 80);
+  color: #59747A
 }
+
+.background--darkgray {
+  color: #59747A
+}
+
+.color--brown {
+  color: #A57F5D
+}
+
+.background--brown {
+    color: #A57F5D
+  }
 
 .section__example {
   background-color: rgb(44, 62, 80);
