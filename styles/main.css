@@ -25,15 +25,15 @@
 }
 
 .background--purple {
-  background-color: rgb(90, 33, 195)
+  background-color: rgb(117, 59, 225)
 }
 
 .background--miamiGreen {
-  background-color: #39FAB6
+  background-color: #4DD4DB
 }
 
 .color--miamiGreen {
-  color: #39FAB6
+  color: #4DD4DB
 }
 
 .color--skyBlue {
@@ -41,7 +41,7 @@
 }
 
 .color--purple {
-  color: rgb(90, 33, 195)
+  color: rgb(117, 59, 225)
 }
 
 .color--goldenrod {
@@ -109,9 +109,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: disc;
+  list-style-position: inside;
+  text-align: left;
   line-height: 2; 
   color: rgb(63, 17, 148);
+  display: inline-block;
 }
 
 /*
