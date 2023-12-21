@@ -7,10 +7,13 @@ const myWork = [
         'title': "Services Provided",
         'href': "content/RichardSirokmanDevOpsResume2019.pdf",
         'desc': "Link to Resume",
-        'body': "I provide help to growing companies who need to improve their \
-        software engineering practices. If your company has created an application that runs\
-        on AWS, or you are thinking of transitioning to the cloud, I can help.\
-        Please click the link above for a link to my PDF resume.",
+        'body': 
+        "I provide software testing and automated test pipeline services \
+        for teams who need assistance in improving their development processes. \
+        Testing APIs, React and similar websites. \
+        I can also help with cloud-native application design. \
+        Have experience with many AWS applications such as \
+        CodeBuild/ CodePipeline, DynamoDB, S3, EC2, Lambda, and Cloudfront. \ ",
         'image': {
             'desc': "Thermopolis hot spring",
             'src': "images/example3.png",

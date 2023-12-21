@@ -29,7 +29,7 @@
 }
 
 .background--miamiGreen {
-  color: #39FAB6
+  background-color: #39FAB6
 }
 
 .color--miamiGreen {
@@ -53,11 +53,11 @@
 }
 
 .background--goldenrod {
-  color: #FAC339
+  background-color: #FAC339
 }
 
 .background--apricot {
-  color: #FA9639
+  background-color: #FA9639
 }
 
 .color--cloud {
@@ -73,7 +73,7 @@
 }
 
 .background--darkgray {
-  color: #59747A
+  background-color: #59747A
 }
 
 .color--brown {
@@ -81,7 +81,7 @@
 }
 
 .background--brown {
-    color: #A57F5D
+    background-color: #A57F5D
   }
 
 .section__example {
